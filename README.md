@@ -3,7 +3,7 @@
 
 # Introduction: Machine Learning Project (Price Prediction for 100,000 UK Used Cars)
 
-In this notebook, I will walk through solving a complete machine learning problem using a real-world dataset. 
+In this project, I will walk through solving a complete machine learning problem using a real-world dataset, then i will make Model Deployment as web application with flask. 
 
 This is a supervised, regression machine learning task: given a set of data with targets (in this case the price).
 
@@ -16,13 +16,13 @@ This is a supervised, regression machine learning task: given a set of data with
 * The cleaned data set contains information of price, transmission, mileage, fuel type, road tax, miles per gallon (mpg), and engine size (in liters).
 
 
-## Machine Learning Workflow
+##  Workflow
 
 1. Data cleaning and formatting
 2. Exploratory data analysis
-3. Feature engineering and selection
-4. Establish a baseline and compare several machine learning models on a performance metric
-5. Perform hyperparameter tuning on the best model to optimize it for the problem
-6. Evaluate the best model on the testing set
-7. Interpret the model results to the extent possible
-8. Draw conclusions and write a well-documented report
+3. Data visualization
+4. Feature engineering and selection
+5. Establish a baseline and compare several machine learning models on a performance metric
+6. Perform hyperparameter tuning on the best model to optimize it for the problem
+7. Evaluate the best model on the testing set
+8. Model Deployment as web application with flask
