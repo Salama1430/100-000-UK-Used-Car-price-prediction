@@ -1,5 +1,3 @@
-# 100-000-UK-Used-Car-price-prediction
-100,000 UK Used Car price prediction
 ## **بسم الله الرحمن الرحيم**
 ## “In the Name of Allah, the Most Beneficent, the Most Merciful”
 
